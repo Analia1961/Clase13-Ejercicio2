@@ -115,9 +115,9 @@ console.log(
 console.log(
   "La comisión C tiene " + totalDesaprobados(comisionC) + " desaprobados"
 );
-console.log("La menor nota de la comisón A es: " + menorNota(comisionA));
-console.log("La menor nota de la comisón A es: " + menorNota(comisionB));
-console.log("La menor nota de la comisón A es: " + menorNota(comisionC));
+console.log("La menor nota de la comisión A es: " + menorNota(comisionA));
+console.log("La menor nota de la comisión A es: " + menorNota(comisionB));
+console.log("La menor nota de la comisión A es: " + menorNota(comisionC));
 
 /*
 Ejercicio2 resuelto por el alumno Mariano Carbajo
